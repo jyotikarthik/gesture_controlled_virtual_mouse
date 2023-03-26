@@ -3,7 +3,7 @@ Aim of the project is to eliminate human touch. You can operate your device with
 
 <h2>Speech Recognition AI</h2>
 Run Pronton.py file a web interface Proton will pop up:
-![wish](https://user-images.githubusercontent.com/93524563/227763860-918320db-bb7f-4183-9975-38da09ae542e.jpg)
+![wish](https://github.com/jyotikarthik/gesture_controlled_virtual_mouse/Gesture-Controlled-Virtual-Mouse-main/Gesture-Controlled-Virtual-Mouse-main/ss/wish.jpg)
 <br>
 Proton will ask you name to store user activity in the database:
 ![namestore](https://user-images.githubusercontent.com/93524563/227763857-fb354c9e-0898-4913-ab29-3a5ae73084b7.jpg)
